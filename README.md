@@ -42,33 +42,26 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | February 11th | Machine Learning as a Service | <ul>  <li>[8 - Introduction to APIs](https://nbviewer.jupyter.org/format/slides/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/08-IntroductionToAPIs.ipynb#/) </li> <li>[9 - Model Deployment](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/09-Model_Deployment.ipynb) </li><li>[10 - Creating APIs in AWS](https://nbviewer.jupyter.org/format/slides/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/10-CreatingAPIinAWS.ipynb#/) </li></ul> | <ul><li>[P1 - Survival Prediction API](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/P1-UsedVehiclePricePrediction.ipynb) </li> </ul> | 
 | February 18th |  Ensembles | <ul><li>[11 - Bagging](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/11-Ensembles_Bagging.ipynb) </li><li>[12 - Boosting](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/12-Ensembles_Boosting.ipynb) </li></ul> | <ul><li>[E8 - Best Ensemble Overview](https://github.com/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E8-EnsembleTreesOverview.md) </li><li>[E9 - Bagging](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E9-Bagging.ipynb) </li> </ul> | 
 | February 25th |  Random Forest | <ul><li>[13 - Random Forest](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/13-Ensembles_RandomForest.ipynb) </li></ul> | <ul><li>[E10 - Random Forest Performance Review](https://github.com/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E10-RandomForestPerformanceReview.md) </li><li>[E11 - Random Forest](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E11-RandomForest.ipynb) </li> </ul> | 
- 
- ### Machine Learning Systems
-| Date | Session         | Notebooks/Presentations          | Exercises |
-| :----| :----| :------------- | :------------- | 
-| March 4th |  Feature Engineering | <ul><li>[14 - Data preparation](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/14-data_preparation.ipynb) </li> <li>[15 - Feature Engineering]() </li> </ul> | <ul><li>[E12 - Gradient Boosting Review](https://github.com/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E12-GradientBoostingRewiew.md) </li> <li>[E13 - Categorical Encoding ](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E13-CategoricalEncoding.ipynb) </li> </ul> | 
-| March 11th | Unbalanced Datasets  | <ul><li>[14 - Unbalanced Datasets]() </li></ul> | <ul><li>[E11 - Real World Datasets Overview]() </li> <li>[E12 - Fraud Detection]() </li>  </ul> | 
-| March 18th |  Model Evaluation | <ul><li>[15 - Model Evaluation]() </li></ul> | <ul> <li>[P2 - Classification API]() </li></ul> | 
+| March 4th |  Feature Engineering | <ul><li>[14 - Feature Engineering](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/14-data_preparation.ipynb) </li> </ul> | <ul><li>[E12 - Gradient Boosting Review](https://github.com/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E12-GradientBoostingRewiew.md) </li> <li>[E13 - Categorical Encoding ](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E13-CategoricalEncoding.ipynb) </li> </ul> | 
+| March 11th | Project Presentations  |  | | 
+| March 18th |  Unbalanced Learning | <ul><li>[15 - Unbalanced Learning](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/notebooks/15-Unbalanced_Datasets.ipynb) </li></ul> | <ul><li>[E14 - Unbalanced Learning Overview](https://github.com/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E14-UnbalancedLearningOverview.md) </li> <li>[E15 - Fraud Detection](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/E15-fraud_detection.ipynb) </li>  </ul>  | 
 
 
  ### Natural Language Processing
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| March 18th |  Information Retrieval | <ul><li>[15 - Data Scrapping]() </li><li>[16 - Social Networks APIs]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| April 1st | Natural Language Processing  | <ul><li>[17 - Natural Language Processing]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| April 3rd |  Sentiment Analysis | <ul><li>[18 - Sentiment Analysis]() </li></ul> | <ul><li>[P3 - NLP Cheating Detection API]() </li>  </ul> | 
-
+| April 1st | Natural Language Processing  | <ul><li>[16 - Natural Language Processing]() </li></ul> | <ul><li>[P2 - NLP Movies Analysis API]() </li> </ul> | 
+| April 8th |  Sentiment Analysis | <ul><li>[17 - Sentiment Analysis]() </li></ul> | <ul><li>[]() </li>  </ul> |
+| April 22nd | Project Presentations  |  | | 
  ### Advanced Topics in Machine Learning
 | Date | Session         | Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| April 8th | Outlier Detection | <ul><li>[19 - Anomaly Detection]() </li><li>[20 - Isolation Forests]() </li></ul> | <ul><li>[]() </li></ul> | 
-| April 22nd | Neural Networks | <ul><li>[21 - MLP and Backpropagation]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| April 24th |  Introduction to Deep Learning | <ul><li>[22 - Introduction to Deep Learning]() </li></ul> | <ul><li>[]() </li> </ul> | 
-| May 6th |  Recurrent Neural Networks| <ul><li>[23 - LSTM]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| April 29th |  Introduction to Deep Learning | <ul><li>[18 - MLP and Backpropagation]() </li></ul> <ul><li>[19 - Introduction to Deep Learning]() </li></ul> | <ul><li>[]() </li> </ul> | 
+| May 6th |  Recurrent Neural Networks| <ul><li>[20 - LSTM]() </li></ul>  <ul><li>[21 - CNN]() </li></ul> | <ul><li>[]() </li> </ul> | 
 
 
 ### Final Project Presentation 
 
-* [P4 - Kaggle Competition]() 
+* [P3 - Kaggle Competition]() 
 
 
